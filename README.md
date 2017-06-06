@@ -5,4 +5,4 @@ This container is used with Pihvi local development environment for rendering se
 [Onni Hakala](https://github.com/onnimonni)
 
 ## License
-GPLv2
+MIT
